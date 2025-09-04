@@ -54,7 +54,7 @@
 					<string>007</string>
 				</array>
 			</dict>
-		<dict>
+		</dict>
 		<dict>
 			<key>UTTypeIdentifier</key>
 			<string>info.craftablescience.vpkedit.bee-pack</string>
@@ -74,7 +74,7 @@
 					<string>bmz</string>
 				</array>
 			</dict>
-		<dict>
+		</dict>
 		<dict>
 			<key>UTTypeIdentifier</key>
 			<string>info.craftablescience.vpkedit.bmz</string>
@@ -94,7 +94,7 @@
 					<string>bmz</string>
 				</array>
 			</dict>
-		<dict>
+		</dict>
 		<dict>
 			<key>UTTypeIdentifier</key>
 			<string>com.valvesoftware.bsp</string>
@@ -116,7 +116,7 @@
 					<string>bsp</string>
 				</array>
 			</dict>
-		<dict>
+		</dict>
 		<dict>
 			<key>UTTypeIdentifier</key>
 			<string>info.craftablescience.vpkedit.fpk</string>
@@ -137,7 +137,7 @@
 					<string>fpx</string>
 				</array>
 			</dict>
-		<dict>
+		</dict>
 		<dict>
 			<key>UTTypeIdentifier</key>
 			<string>com.valvesoftware.gcf</string>
@@ -159,7 +159,7 @@
 					<string>gcf</string>
 				</array>
 			</dict>
-		<dict>
+		</dict>
 		<dict>
 			<key>UTTypeIdentifier</key>
 			<string>com.facepunch.gma</string>
@@ -179,7 +179,7 @@
 					<string>gma</string>
 				</array>
 			</dict>
-		<dict>
+		</dict>
 		<dict>
 			<key>UTTypeIdentifier</key>
 			<string>info.craftablescience.vpkedit.hog</string>
@@ -313,7 +313,7 @@
 				<string>public.data</string>
 			</array>
 			<key>UTTypeReferenceURL</key>
-			<string>https://developer.valvesoftware.com/wiki/VPK_(file_format)</key>
+			<string>https://developer.valvesoftware.com/wiki/VPK_(file_format)</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.mime-type</key>
@@ -357,7 +357,7 @@
 				<string>public.composite-content</string>
 			</array>
 			<key>UTTypeReferenceURL</key>
-			<string>https://developer.valvesoftware.com/wiki/DMX</key>
+			<string>https://developer.valvesoftware.com/wiki/DMX</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.mime-type</key>
@@ -379,7 +379,7 @@
 				<string>public.content</string>
 			</array>
 			<key>UTTypeReferenceURL</key>
-			<string>https://developer.valvesoftware.com/wiki/MDL</key>
+			<string>https://developer.valvesoftware.com/wiki/MDL</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.mime-type</key>
@@ -401,7 +401,7 @@
 				<string>public.content</string>
 			</array>
 			<key>UTTypeReferenceURL</key>
-			<string>https://developer.valvesoftware.com/wiki/PPL</key>
+			<string>https://developer.valvesoftware.com/wiki/PPL</string>
 			<key>UTTypeTagSpecification</key>
 			<dict>
 				<key>public.mime-type</key>
@@ -737,7 +737,6 @@
 			<string>Viewer</string>
 			<key>LSHandlerRank</key>
 			<string>Alternate</string>
-		</dict>
 		</dict>
 	</array>
 </dict>
